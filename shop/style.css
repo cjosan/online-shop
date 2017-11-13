@@ -1,0 +1,99 @@
+.navbar {
+  top: 0;
+  background: #FF7F50;
+  border-radius: 0px;
+  width: 100%;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: gray;
+}
+
+.side-menu-links tr td {
+  height: 50px;
+  padding-right: 150px;
+  padding-left: 20px;
+  text-align: center;
+  border: 1px solid #E0E0E0;
+}
+
+.right-pos {
+    float: right;
+}
+
+.item {
+  width: 200px;
+  height: 300px;
+}
+
+.checked {
+    color: orange;
+}
+
+.phone-photo {
+    width: 200px;
+    height: 200px;
+    padding-top: 10px;
+}
+
+.carousel {
+  height: 350px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.phone-rating {
+    height: 50px;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 15px;
+    background: #F5F5F5;
+    border-top: 1px solid #E0E0E0;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.phone-card {
+    border: 1px solid #E0E0E0;
+    border-radius: 5px;
+    margin-right:-1px;
+    margin-bottom: 30px;
+}
+
+.phone-name {
+  color: orange;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.phone-price {
+  font-weight: bold;
+}
+
+.phone-description {
+  color: gray;
+  margin-bottom: 10px;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #FF7F50;
+    color: white;
+    text-align: center;
+}
+
+.phone-card:hover {
+  background: lightgray;
+}
